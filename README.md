@@ -1,5 +1,5 @@
 # Ch6Test
-answers to ch 6 test from learncpp.com
+part of a series of answers to the ch 6 test from learncpp.com
 
 Not robust, will clean code later
 
